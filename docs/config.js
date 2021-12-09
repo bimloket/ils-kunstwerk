@@ -104,7 +104,7 @@ var respecConfig = {
     //prevRecURI: "https://www.w3.org/TR/2014/example-20140327/",
   
     // license can be one of the following: cc0, cc-by or cc-by-nd((default)) (see https://github.com/Geonovum/respec/wiki/license )
-    license: 'cc-by-nd',
+    license: 'cc0',
   
     // Overrides the standard logo with one or more other logos. (see https://respec.org/docs/#logos)
     // Geef een lege array op als er geen <default> logo moet staan
@@ -132,7 +132,7 @@ var respecConfig = {
         },
       ],
     // The github option allows you associate your specification with a repository on GitHub.
-    github: "https://github.com/bimloket/contractspecificaties",
+    github: "https://github.com/bimloket/ils-kunstwerk",
   
     // The URL of your test suite, gets included in the specification's headers.
     // testSuiteURI: "https://portaal.digikoppeling.nl/CV/home.html",
